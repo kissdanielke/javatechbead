@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="persist/persist/src/main/java"/>
+	<classpathentry kind="src" path="service/service/src/main/java"/>
+	<classpathentry kind="src" path="console/console/src/main/java"/>
+	<classpathentry kind="src" path="api/api/src/main/java"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
